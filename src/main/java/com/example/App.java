@@ -6,7 +6,6 @@ public class App {
 
         System.out.println("BITS DevOps Lab");
         System.out.println("BITS ID: 2022WC86076");
-        System.out.println("Jenkins Continuous Integration Test");
-
+      	System.out.println("Jenkins Continuous Integration Test - Build 2");
     }
 }
